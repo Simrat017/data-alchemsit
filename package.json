@@ -12,6 +12,7 @@
   "dependencies": {
     "body-parser": "^1.20.2",
     "cors": "^2.8.5",
+    "docx": "^8.5.0",
     "dotenv": "^16.4.5",
     "express": "^4.19.2",
     "json2csv": "^6.0.0-alpha.2",
@@ -19,6 +20,7 @@
     "nodemon": "^3.1.4",
     "pdfkit": "^0.15.0",
     "pdfmake": "^0.2.10",
-    "xlsx": "^0.18.5"
+    "xlsx": "^0.18.5",
+    "xmlbuilder": "^15.1.1"
   }
 }
